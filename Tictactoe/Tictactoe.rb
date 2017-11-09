@@ -1,3 +1,9 @@
+#CS 408: Programming Language
+#Group: 1
+
+#Name: Phuoc, Eric
+#Date: 11/09/2017
+
 #Game engine class
 
 require_relative 'Board'
