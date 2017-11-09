@@ -1,3 +1,9 @@
+#CS 408: Programming Language
+#Group: 1
+
+#Name: Phuoc, Eric
+#Date: 11/09/2017
+
 # Maintains game board state
 class Board
     # initialize board
